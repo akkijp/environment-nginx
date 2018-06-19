@@ -1,4 +1,4 @@
-FROM nginx:1.14.0-alpine
+FROM nginx:1.15.0-alpine
 LABEL maintainer="Kosuke Akizuki kosuke19952000@gmail.com"
 
 ENV DOCKER_GEN_VERSION 0.7.4
